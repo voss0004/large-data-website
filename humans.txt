@@ -1,0 +1,45 @@
+                         
+/* TEAM */
+
+                            
+Your title: Sarah Voss
+
+                            
+Site: behance.net/sarahvossdesign
+
+                            
+Twitter: @voss101
+
+                            
+Location: Ottawa, Canada.
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Name: Thomas
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2013/10/10 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: Jekyll
+
+                            
+Software: Dreamweaver, GitHub
