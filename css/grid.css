@@ -57,12 +57,15 @@
   }
     h2 {
 	font-size:13px;
-	}
-	.mainpage-p {
-	font-size: 11px; 
+	padding-left: 3%;
 	}
 	.paragraph {
+	font-size: 11px; 
+	padding: 0% 3% 0% 3%;
+	}
+	.mainpage-p {
 	padding: 6px 40px;	
+	text-align:center;	
 	}
 	.nav-s {
 	padding: 4% 2% 0% 0%;
@@ -101,12 +104,15 @@
   }
     h2 {
 	font-size:15px;
-	}
-	.mainpage-p {
-	font-size: 13px; 
+	padding-left: 2%;
 	}
 	.paragraph {
+	font-size: 13px; 
+	padding: 0% 2% 0% 2%;
+	}
+	.mainpage-p {
 	padding: 6px 90px;	
+	text-align:center;	
 	}
 	.nav-m {
 	padding: 2.1% 10% 0% 0%;
@@ -149,12 +155,15 @@
   }
   h2 {
 	font-size:18px;
-	}
-	.mainpage-p {
-	font-size: 15px; 
+	padding-left: 5%;
 	}
 	.paragraph {
-	padding: 6px 300px;	
+	font-size: 15px; 
+	padding: 0% 5% 2% 5%;
+	}
+	.mainpage-p {
+	padding: 6px 300px;
+	text-align:center;	
 	}
 	.nav-l {
 	padding: 2.4% 10% 0% 0%;

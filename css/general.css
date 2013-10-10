@@ -46,14 +46,9 @@ nav a:selected {
 }
 
 h2 {
-	text-align: center;
-	font-size:inherit;	
-	
+	font-size:inherit;		
 }
 
-p {
-	text-align: center;
-}
 
 footer {
 	font-size:11px;	
