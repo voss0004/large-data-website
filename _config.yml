@@ -1,2 +1,2 @@
 markdown: redcarpet
-exclude: ['ia','visual-style', 'README.md']
+exclude: ['ia', 'visual-style', 'README.md']
