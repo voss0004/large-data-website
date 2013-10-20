@@ -43,14 +43,18 @@ nav a:selected {
 
 .paragraph {
 	background-color: #fff;
+	
 }
 
 h2 {
-	font-size:inherit;		
+	font-size:inherit;	
+	padding-top: 1%;	
 }
 
 
-
+.grid-background {
+	background-color: #999;
+}
 footer {
 	font-size:11px;
 	text-align:center;	

@@ -57,11 +57,11 @@
   }
     h2 {
 	font-size:13px;
-	padding: 0% 3% 0% 5%;
+	padding: 2% 2% 0% 5%;
 	}
 	.paragraph {
 	font-size: 11px; 
-	padding: 0% 3% 0% 5%;
+	padding: 0% 5% 2% 5%;
 	}
 	.mainpage-p {
 	padding: 6px 40px;	
@@ -104,11 +104,11 @@
   }
     h2 {
 	font-size:15px;
-	padding-left: 2%;
+	padding-left: 3%;
 	}
 	.paragraph {
 	font-size: 13px; 
-	padding: 0% 2% 0% 2%;
+	padding: 0% 2% 2% 3%;
 	}
 	.mainpage-p {
 	padding: 6px 90px;	
@@ -155,11 +155,11 @@
   }
   h2 {
 	font-size:18px;
-	padding-left: 5%;
+	padding-left: 4%;
 	}
 	.paragraph {
 	font-size: 15px; 
-	padding: 0% 5% 2% 5%;
+	padding: 0% 5% 2% 4%;
 	}
 	.mainpage-p {
 	padding: 6px 300px;
