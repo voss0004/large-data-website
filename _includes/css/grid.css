@@ -57,19 +57,22 @@
   }
     h2 {
 	font-size:13px;
-	padding: 2% 2% 0% 5%;
+	padding: 4% 2% 0% 5%;
 	}
 	.paragraph {
 	font-size: 11px; 
-	padding: 0% 5% 2% 5%;
+	padding: 0% 5% 1% 5%;
 	}
 	.mainpage-p {
-	padding: 6px 40px;	
+	padding: 6px px;	
 	text-align:center;	
 	}
 	.nav-s {
 	padding: 4% 2% 0% 0%;
 	font-size: 12px;		
+	}
+	ul {
+	padding-left: 7%;	
 	}
 }
 
@@ -163,7 +166,7 @@
 	padding: 0% 5% 2% 4%;
 	}
 	.mainpage-p {
-	padding: 6px 300px;
+	padding: 6px 200px;
 	text-align:center;	
 	}
 	.nav-l {
