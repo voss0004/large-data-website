@@ -9,6 +9,8 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1,target-densitydpi=device-dpi">
 	<meta name="description" content="Want to learn more about sushi and sashimi? This website will teach you everything you need to know about sushi.">
 	
+	<link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css'>
+	
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="Sushi">
 	<meta property="og:url" content="http://voss0004.github.io/large-data-website/index.html">
@@ -29,7 +31,7 @@
 <div class="grid masthead">
 	<div class="unit unit-s-2-10 unit-m-1-10 unit-l-1-10">
 	<a href="../index.html" rel="home">
-	<img src="http://placehold.it/130x130" class="logo" alt="Sushi and Sashimi">
+	<img src="../images/logo.jpg" class="logo" alt="Sushi and Sashimi">
 	</a>
 	</div>
 	
@@ -37,11 +39,11 @@
 	
 	<div class="nav nav-l nav-m nav-s">
 		<ul>
-		<li><a href="/about.html">About</a></li>
-		<li><a href="/types.html">Types</a></li>
-		<li><a href="/ingredients.html">Ingredients</a></li>
-		<li><a href="xx">Health</a></li>
-		<li><a href="xx">Making Sushi</a></li>
+		<li><a href="/about.html" class="{% if page.url contains 'about' %}selected{% endif %}">About</a></li>
+		<li><a href="/types.html" class="{% if page.url contains 'types' %}selected{% endif %}">Types</a></li>
+		<li><a href="/ingredients.html" class="{% if page.url contains 'ingredients' %}selected{% endif %}">Ingredients</a></li>
+		<li><a href="xx"class="{% if page.url contains 'health' %}selected{% endif %}">Health</a></li>
+		<li><a href="xx"class="{% if page.url contains 'making sushi' %}selected{% endif %}">Making Sushi</a></li>
 		</ul>
 	</div>
 	
