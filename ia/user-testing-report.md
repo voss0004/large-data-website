@@ -18,22 +18,32 @@ Qualitative Observations:
 - History typically falls under "about" so it made sense
 
 
-**Tester 2:**
+**Jamie:**
 
 Quantitative Observations:
+
+- Found the history without issues
+- clicked "about" right away
 
 
 
 Qualitative Observations:
 
+- Change the link in the footer
 
-**Tester 3:**
+
+
+**Caroline:**
 
 Quantitative Observations:
+
+-found the history with no issues
 
 
 
 Qualitative Observations:
+
+- mentioned hover on billboard images
 
 ---
 
@@ -58,22 +68,32 @@ Qualitative Observations:
 - Try categorizing the images, or including name on photo. 
 
 
-**Tester 2:**
+**Jamie:**
 
 Quantitative Observations:
+
+- Found it right away
+- Clicked "types" right away
 
 
 
 Qualitative Observations:
 
+- says the images work and are easy to understand which image goes with each text
 
-**Tester 3:**
+
+
+**Caroline:**
 
 Quantitative Observations:
+
+- Found the information without any issues
 
 
 
 Qualitative Observations:
+
+- Add an HR tag to divide the images and content
 
 
 ---
@@ -98,22 +118,30 @@ Qualitative Observations:
 - says it may be confusing to find at first but in the end it made sense
 
 
-**Tester 2:**
+**Jamie:**
 
 Quantitative Observations:
+
+- Found the condiments by clicking "ingredients" right away
 
 
 
 Qualitative Observations:
 
+- no issue with this scenerio
 
-**Tester 3:**
+
+**Caroline:**
 
 Quantitative Observations:
+
+- Found the condiments but was confused as to go to "ingredients" or "making sushi"
 
 
 
 Qualitative Observations:
+
+- Maybe change background colour to divide the photos and content
 
 
 

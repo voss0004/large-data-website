@@ -8,6 +8,11 @@ body {
 	background-color: #fff;
 }
 
+hr {
+	height: 2em;
+	color: #000;
+}
+
 
 .logo {
 	width: 100%;
