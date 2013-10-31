@@ -27,16 +27,20 @@
 
 <body>
 
-
-<div class="grid masthead">
+<ul class="skiplinks">
+	<li><a href="#main">Skip to primary content</a></li>
+	<li><a href="#navigation">Skip to main navigation</a></li>
+</ul>
+	
+	
+<div class="grid masthead" role="banner">
 	<div class="unit unit-s-2-10 unit-m-1-10 unit-l-1-10">
-	<a href="../index.html" rel="home">
-	<img src="../images/logo.jpg" class="logo" alt="Sushi and Sashimi">
+	<a href="/index.html" rel="home">
+	<img src="/images/logo.jpg" class="logo" alt="Sushi and Sashimi">
 	</a>
 	</div>
 	
-	<nav class="unit unit-s-8-10 unit-m-9-10 unit-l-9-10">
-	
+	<nav class="unit unit-s-8-10 unit-m-9-10 unit-l-9-10" id="navigation" role="navigation">
 	<div class="nav nav-l nav-m nav-s">
 		<ul>
 		<li><a href="/about.html" class="{% if page.url contains 'about' %}selected{% endif %}">About</a></li>
@@ -51,11 +55,11 @@
 </div>
 
 
-
+<main id="main" role="main">
 {{content}}
+</main>
 
-
-	<footer>
+	<footer role="contentinfo">
 		<p> © 2013 Sushi Large Data Website. All Rights Reserved. 
 		<a href="http://en.wikipedia.org/wiki/Sushi" rel="external">Wikipedia.org</a></p>
 	</footer>	
