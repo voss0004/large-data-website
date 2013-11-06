@@ -4,7 +4,7 @@
 }
 
 .grid {
-  letter-spacing: -0.31em;
+  letter-spacing: -0.43em;
   *letter-spacing: normal;
   *word-spacing: -0.43em;
   text-rendering: optimizespeed;
@@ -55,6 +55,10 @@
    .unit-s-2-10 {
     width: 20%;
   }
+  h1 {
+	font-size:13px;
+	padding: 1em 0.3em 0 1em;
+	}
     h2 {
 	font-size:13px;
 	padding: 1em 0.3em 0 1em;
@@ -105,6 +109,10 @@
   .unit-m-1-10 {
     width: 10%;
   }
+  h1 {
+	font-size:15px;
+	padding-left: 2em;
+	}
     h2 {
 	font-size:15px;
 	padding-left: 2em;
@@ -156,7 +164,10 @@
    .unit-l-1-10 {
     width: 10%;
   }
-  
+  h1 {
+	font-size:18px;
+	padding-left: 4%;
+	}
   h2 {
 	font-size:18px;
 	padding-left: 4%;
